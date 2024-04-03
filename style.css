@@ -109,12 +109,10 @@ span {
 }
 
 .img-box:hover .back-img {
-  /* bottom: 40px; */
   bottom: 40px;
 }
 
 .img-box:hover .main-img {
-  /* left: 54%; */
   left: 54%;
 }
 

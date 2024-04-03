@@ -3,6 +3,7 @@ var icon = document.getElementById("icon");
 if (localStorage.getItem("theme") == null) {
     localStorage.setItem("theme", "light");
 }
+
 let localData = localStorage.getItem("theme");
 
 if (localData == 'light') {
