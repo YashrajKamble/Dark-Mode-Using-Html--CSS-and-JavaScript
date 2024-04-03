@@ -92,28 +92,28 @@ span {
 }
 
 .img-box {
-  width: 55%;
+  width: 28%;
   height: 75%;
   position: absolute;
   bottom: 0px;
-  right: 100px;
+  right: 75px;
 }
 
 .img-box img {
   height: 100%;
   position: absolute;
-  left: 50%;
+  left: 0%;
   bottom: 0;
   transform: rotateX("-50%");
   transition: bottom 1s, left 1s;
 }
 
 .img-box:hover .back-img {
-  bottom: 40px;
+  bottom: 20px;
 }
 
 .img-box:hover .main-img {
-  left: 54%;
+  left: 10%;
 }
 
 .social-links {
